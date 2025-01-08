@@ -1,4 +1,4 @@
-This repository contains a collection of activities completed as part of the Object-Oriented Programming (OOP) course, which is part of the Integrated Technical Program in Computer Science.
+This repository contains a collection of activities completed as part of the Object-Oriented Programming (OOP) course, which is part of the Integrated Technical.
 
 🖥️ What will you find here?
 
